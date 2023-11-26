@@ -25,7 +25,7 @@ sites:
       - 401
 
 status-website:
-  cname: $MAIN_URL
+  cname: status.bim.boats
   logoUrl: ""
   name: Status
   introTitle: "Uptime status for services running on BIM."
