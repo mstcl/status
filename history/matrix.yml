@@ -1,7 +1,7 @@
 url: $MATRIX_URL
-status: down
-code: 403
-responseTime: 57
-lastUpdated: 2023-11-28T22:36:18.298Z
+status: up
+code: 200
+responseTime: 1178
+lastUpdated: 2023-11-28T22:41:44.122Z
 startTime: 2023-11-26T21:27:10.003Z
 generator: Upptime <https://github.com/upptime/upptime>
