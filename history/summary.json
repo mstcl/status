@@ -40,18 +40,20 @@
     "url": "$PBE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "piped-be",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 928,
-    "timeDay": 1120,
-    "timeWeek": 928,
-    "timeMonth": 928,
-    "timeYear": 928,
-    "dailyMinutesDown": {}
+    "time": 892,
+    "timeDay": 831,
+    "timeWeek": 892,
+    "timeMonth": 892,
+    "timeYear": 892,
+    "dailyMinutesDown": {
+      "2023-12-02": 0
+    }
   },
   {
     "name": "Git",
@@ -59,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 758,
     "timeDay": 887,
     "timeWeek": 758,
     "timeMonth": 758,
     "timeYear": 758,
-    "dailyMinutesDown": {
-      "2023-12-02": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
