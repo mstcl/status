@@ -1,7 +1,7 @@
 url: $PBE_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-03T19:04:39.066Z
+status: up
+code: 200
+responseTime: 577
+lastUpdated: 2023-12-03T21:59:19.523Z
 startTime: 2023-11-26T21:27:06.115Z
 generator: Upptime <https://github.com/upptime/upptime>
