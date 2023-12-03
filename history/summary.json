@@ -4,27 +4,29 @@
     "url": "$LE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lemmy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1945,
-    "timeDay": 1044,
-    "timeWeek": 1945,
-    "timeMonth": 1945,
-    "timeYear": 1945,
-    "dailyMinutesDown": {}
+    "time": 1832,
+    "timeDay": 761,
+    "timeWeek": 1832,
+    "timeMonth": 1832,
+    "timeYear": 1832,
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "Piped (FE)",
     "url": "$PFE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "piped-fe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 774,
     "timeMonth": 774,
     "timeYear": 774,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "Piped (BE)",
     "url": "$PBE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "piped-be",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 915,
     "timeMonth": 915,
     "timeYear": 915,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "Git",
     "url": "$GIT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +75,18 @@
     "timeWeek": 751,
     "timeMonth": 751,
     "timeYear": 751,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "Blog",
     "url": "$BLOG_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,16 +95,18 @@
     "timeWeek": 714,
     "timeMonth": 714,
     "timeYear": 714,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "Matrix",
     "url": "$MATRIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,16 +115,18 @@
     "timeWeek": 890,
     "timeMonth": 890,
     "timeYear": 890,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "Slsk",
     "url": "$SLSK_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "slsk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,16 +135,18 @@
     "timeWeek": 132,
     "timeMonth": 132,
     "timeYear": 132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "Wd",
     "url": "$WD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,6 +155,8 @@
     "timeWeek": 518,
     "timeMonth": 518,
     "timeYear": 518,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   }
 ]
