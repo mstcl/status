@@ -4,18 +4,20 @@
     "url": "$LE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "lemmy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1578,
-    "timeDay": 1039,
-    "timeWeek": 1510,
-    "timeMonth": 1551,
-    "timeYear": 1578,
-    "dailyMinutesDown": {}
+    "time": 1580,
+    "timeDay": 1250,
+    "timeWeek": 1528,
+    "timeMonth": 1554,
+    "timeYear": 1580,
+    "dailyMinutesDown": {
+      "2024-01-07": 0
+    }
   },
   {
     "name": "Piped (FE)",
@@ -94,18 +96,20 @@
     "url": "$MATRIX_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 762,
-    "timeDay": 691,
-    "timeWeek": 647,
-    "timeMonth": 718,
-    "timeYear": 762,
-    "dailyMinutesDown": {}
+    "time": 754,
+    "timeDay": 584,
+    "timeWeek": 617,
+    "timeMonth": 709,
+    "timeYear": 754,
+    "dailyMinutesDown": {
+      "2024-01-07": 0
+    }
   },
   {
     "name": "Slsk",
