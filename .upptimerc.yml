@@ -17,12 +17,6 @@ sites:
     check: "tcp-ping"
     url: $SLSK_URL
     port: $SLSK_PORT
-  - name: Wd
-    url: $WD_URL
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 401
 
 status-website:
   cname: status.bim.boats
