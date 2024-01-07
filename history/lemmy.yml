@@ -1,7 +1,7 @@
 url: $LE_URL
-status: up
-code: 200
-responseTime: 1029
-lastUpdated: 2024-01-07T13:16:14.316Z
+status: down
+code: 502
+responseTime: 1674
+lastUpdated: 2024-01-07T18:33:37.111Z
 startTime: 2023-11-26T21:26:52.004Z
 generator: Upptime <https://github.com/upptime/upptime>
