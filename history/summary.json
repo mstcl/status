@@ -116,19 +116,19 @@
     "url": "$SLSK_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "slsk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 121,
-    "timeWeek": 105,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 122,
+    "timeDay": 113,
+    "timeWeek": 104,
     "timeMonth": 115,
-    "timeYear": 123,
+    "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-01-08": 0
+      "2024-01-08": 11
     }
   }
 ]
