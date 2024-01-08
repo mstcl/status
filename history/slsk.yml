@@ -1,7 +1,7 @@
 url: $SLSK_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-08T16:57:54.658Z
+status: up
+code: 200
+responseTime: 97
+lastUpdated: 2024-01-08T17:08:48.093Z
 startTime: 2023-11-26T21:27:11.329Z
 generator: Upptime <https://github.com/upptime/upptime>
